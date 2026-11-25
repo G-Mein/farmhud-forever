@@ -1,0 +1,20 @@
+## Interface: 16001
+## Title: |cff33ff99Farm|rRadar3D
+## Notes: Live-Minimap-HUD im FarmHud-Stil mit transparentem Hintergrund, skalierten Dots, Quest-, Kürschner- und Tracking-Overlays für WoW Forever.
+## Author: FarmRadar3D
+## Version: 1.0.0
+## OptionalDeps: Questie, QuestieDB
+## IconTexture: Interface\AddOns\FarmRadar3D\logo
+## AddonCompartmentFunc: FarmRadar3D_OnAddonCompartmentClick
+## AddonCompartmentFuncOnEnter: FarmRadar3D_OnAddonCompartmentEnter
+## AddonCompartmentFuncOnLeave: FarmRadar3D_OnAddonCompartmentLeave
+## SavedVariables: FarmRadar3DDB
+
+Data.lua
+Core.lua
+Sources.lua
+Hud.lua
+Overlay.lua
+Options.lua
+Minimap.lua
+FarmRadar3D.lua

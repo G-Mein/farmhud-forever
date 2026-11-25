@@ -1,0 +1,14 @@
+<Bindings>
+  <Binding name="FARMRADAR3D_TOGGLE_HUD" category="BINDING_HEADER_FARMRADAR3D">
+    FarmRadar3D_ToggleHUD();
+  </Binding>
+  <Binding name="FARMRADAR3D_TOGGLE_BG" category="BINDING_HEADER_FARMRADAR3D">
+    FarmRadar3D_ToggleBackground();
+  </Binding>
+  <Binding name="FARMRADAR3D_TOGGLE_DRAG" category="BINDING_HEADER_FARMRADAR3D">
+    FarmRadar3D_ToggleDragMode();
+  </Binding>
+  <Binding name="FARMRADAR3D_OPEN_OPTIONS" category="BINDING_HEADER_FARMRADAR3D">
+    FarmRadar3D_OpenOptions();
+  </Binding>
+</Bindings>
